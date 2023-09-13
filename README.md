@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## 📖 About me: Linh Dang (she/her)
+- 🇻🇳 Born and raised in Hanoi, Vietnam.
+- 🙋 Freshman at Colby College, class of 2027.
+- 🧠 Prospective psychology major with a concentration in AI.
+- ⛄️ Fun fact: I have never seen snow in my life.
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=euxgq6t7q7wnne3fu4h54a3cg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **lkdang27/lkdang27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
