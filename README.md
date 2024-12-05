@@ -9,9 +9,9 @@
 
 ## 📖 About me: Linh Dang (she/her)
 - 🇻🇳 Born and raised in Hanoi, Vietnam.
-- 🙋 Freshman at Colby College, class of 2027.
+- 🙋 Sophomore at Colby College, class of 2027.
 - 🧠 Major: Computational Psychology with a minor in Anthropology
-- ⛄️ Fun fact: I have never seen snow in my life.
+- ⛄️ Fun fact: I have backpacked backcountry in Mexico for 8 days.
 - 🎤 My favorite song at the moment:
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=euxgq6t7q7wnne3fu4h54a3cg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
